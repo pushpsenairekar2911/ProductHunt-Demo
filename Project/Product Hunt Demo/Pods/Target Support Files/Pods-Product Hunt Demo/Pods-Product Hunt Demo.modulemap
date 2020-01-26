@@ -1,0 +1,6 @@
+module Pods_Product_Hunt_Demo {
+  umbrella header "Pods-Product Hunt Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}
